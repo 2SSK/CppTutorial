@@ -14,3 +14,5 @@
 - [ ] Classes
 - [ ] Inheritance
 - [ ] Polymorphism
+
+## Timeline: 2:16:29
