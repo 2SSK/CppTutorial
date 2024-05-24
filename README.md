@@ -1,6 +1,6 @@
 # Cpp Beginner to Advanced
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Variables and Datatypes
 - [ ] Operations on Data
 - [ ] Flow Control
