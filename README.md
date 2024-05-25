@@ -15,4 +15,6 @@
 - [ ] Inheritance
 - [ ] Polymorphism
 
-## Timeline: 3:23:20
+---
+
+## Timeline: 3:59:35
