@@ -1,7 +1,7 @@
 # Cpp Beginner to Advanced
 
 - [x] Introduction
-- [ ] Variables and Datatypes
+- [x] Variables and Datatypes
 - [ ] Operations on Data
 - [ ] Flow Control
 - [ ] Loops
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 4:00:00
+## Timeline: 5:08:00
