@@ -2,7 +2,7 @@
 
 - [x] Introduction
 - [x] Variables and Datatypes
-- [ ] Operations on Data
+- [x] Operations on Data
 - [ ] Flow Control
 - [ ] Loops
 - [ ] Arrays
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 5:56:10
+## Timeline: 7:00:00
