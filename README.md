@@ -5,7 +5,7 @@
 - [x] Operations on Data
 - [x] Flow Control
 - [x] Loops
-- [ ] Arrays
+- [x] Arrays
 - [ ] Pointers
 - [ ] References
 - [ ] Character manipulation and string
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 8:03:33
+## Timeline: 9:53:27
