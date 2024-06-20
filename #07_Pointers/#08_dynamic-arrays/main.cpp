@@ -61,8 +61,8 @@ int main() {
    * range based for loop to work.
    */
 
-  for (double temp : temperatures) {
-    cout << "temperature : " << temp << endl;
+  for (int i{0}; i < size; ++i) {
+    cout << "temperature : " << temperatures[i] << endl;
   }
 
   // We say that the dynamically allocated array has decayed into a pointer

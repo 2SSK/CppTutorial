@@ -7,7 +7,7 @@
 - [x] Loops
 - [x] Arrays
 - [x] Pointers
-- [ ] References
+- [x] References
 - [ ] Character manipulation and string
 - [ ] Functions
 - [ ] Concepts
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 12:11:06
+## Timeline: 12:44:30
