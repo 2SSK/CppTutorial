@@ -8,7 +8,7 @@
 - [x] Arrays
 - [x] Pointers
 - [x] References
-- [ ] Character manipulation and string
+- [x] Character manipulation and string
 - [ ] Functions
 - [ ] Concepts
 - [ ] Classes
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 12:44:30
+## Timeline: 14:26:35
