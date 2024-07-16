@@ -9,7 +9,7 @@
 - [x] Pointers
 - [x] References
 - [x] Character manipulation and string
-- [ ] Functions
+- [x] Functions
 - [ ] Concepts
 - [ ] Classes
 - [ ] Inheritance
@@ -17,4 +17,4 @@
 
 ---
 
-## Timeline: 14:26:35
+## Timeline: 19:00:56
