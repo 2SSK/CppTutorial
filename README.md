@@ -10,11 +10,11 @@
 - [x] References
 - [x] Character manipulation and string
 - [x] Functions
-- [ ] Concepts
+- [x] Concepts
 - [ ] Classes
 - [ ] Inheritance
 - [ ] Polymorphism
 
 ---
 
-## Timeline: 19:00:56
+## Timeline: 20:15:44
