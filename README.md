@@ -11,8 +11,8 @@
 - [x] Character manipulation and string
 - [x] Functions
 - [x] Concepts
-- [ ] Classes
+- [x] Classes
 - [ ] Inheritance
 - [ ] Polymorphism
 
-## Timeline: 20:04:11
+## Timeline: 22:52:48

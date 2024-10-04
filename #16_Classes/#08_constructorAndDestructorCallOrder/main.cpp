@@ -1,13 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/*  NOTE: 
- *  Special methods that are called when an object 
- *  dies. They are needed when the object needs to 
- *  release some dynamic memory, or for some other kind 
- *  of clean up.
-*/
-
 class Dog{
 private: 
   string name;
@@ -23,6 +16,7 @@ public:
 Dog::Dog(string_view name, string_view breed, int age): name{name}, breed{breed}{
   p_age = new int;
   *p_age = age;
+  cout << "Constructor called for " << name << "!" << endl;
 };
 
 void Dog::output(){
@@ -36,9 +30,8 @@ Dog::~Dog(){
   cout << "Destructor called for " << name << "!"  << endl;
 }
 
-
 int main(){
-  cout << "Destructors!" << endl << endl;
+  cout << "Constructor & Destructor call order!" << endl << endl;
 
   Dog d1("Buddy", "Golden Retriever", 5);
   d1.output();
@@ -49,7 +42,8 @@ int main(){
   Dog d3("Kallu", "Gully ka kutta", 7);
   d3.output();
 
-  cout << "Done!" << endl;
+  Dog d4("Tom", "Pomeranian", 3);
+  d4.output();
 
   return 0;
 }
