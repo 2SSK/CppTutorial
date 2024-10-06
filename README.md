@@ -12,7 +12,7 @@
 - [x] Functions
 - [x] Concepts
 - [x] Classes
-- [ ] Inheritance
+- [x] Inheritance
 - [ ] Polymorphism
 
-## Timeline: 22:52:48
+## Timeline: 1:02:21:08
