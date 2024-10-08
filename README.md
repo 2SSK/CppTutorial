@@ -1,4 +1,8 @@
-# Cpp Beginner to Advanced
+# C++ Concepts and Examples
+
+This project contains various concepts and examples related to C++ programming. Each topic is organized into folders, with individual exercises and code samples to demonstrate the functionality.
+
+---
 
 - [x] Introduction
 - [x] Variables and Datatypes
@@ -10,9 +14,11 @@
 - [x] References
 - [x] Character manipulation and string
 - [x] Functions
+- [x] Getting things out of functions
+- [x] Function overloading
+- [x] Lambda Functions
+- [x] Function templates
 - [x] Concepts
 - [x] Classes
 - [x] Inheritance
-- [ ] Polymorphism
-
-## Timeline: 1:02:21:08
+- [x] Polymorphism
